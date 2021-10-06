@@ -1,1 +1,3 @@
 # building_a_connect
+
+Nesse projeto implementamos quatro novas redes e as conectamos às redes já existentes no laboratório 4.2.2.5 Packet Tracer - Build a Connected Factory Solution. A ideia do projeto era criar e conectar uma nova fábrica na rede da cidade. Nós criamos as novas redes e conectamos as redes existentes. Para isso, adicionamos dois servidores (DHCP e DNS), PCs, roteadores, um home gateway e alguns dispositivos IoT na rede de "nossa fábrica". Configuramos as redes e conectamos os dispositivos. Incluimos condições de funcionamento nos dispositivos IoT para o seu gerenciamento.
